@@ -1,12 +1,13 @@
 import boto3
  
 # 하드코딩된 AWS API 키
-aws_access_key_id = "test"
-aws_secret_access_key = "test+G"
+aws_access_key_id = "AKIAIOSFODNN7EXAMPLE"
+aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
 region_name = "us-east-1"  # 사용하려는 AWS 리전
  010-3658-7777
- 010-3658-7777
-
+ 010-3658-7777 
+ 010-222-3321 
  010-3658-7777
 # boto3 클라이언트 생성 (하드코딩된 API 키 사용)
 s3_client = boto3.client(
